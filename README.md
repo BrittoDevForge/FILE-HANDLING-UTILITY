@@ -1,5 +1,19 @@
 # FILE-HANDLING-UTILITY
 
+
+
+NAME : A.BRITTO RAJ
+
+INTERN ID : CT04DZ331
+
+DOMAIN : JAVA
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTHOSH KUMA
+
+
+
 # Java File Operations Demo
 
 ## Overview
