@@ -53,5 +53,15 @@ The project is intended for beginners who want to understand file handling in Ja
 4. Copy the provided code into the file.
 5. Run the main() method.
 
+## Output :
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e5d6a781-5b25-4828-83e1-4fd468a54aa0" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f391c3e1-9251-46f8-9a8e-d9c24a59b0ad" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8829ac92-755b-45d3-8f52-25421e0b318f" />
+
+https://github.com/user-attachments/assets/4a2dde33-c8a4-4b44-93bb-b5e6b0d3069e
+
 
 
